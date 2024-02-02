@@ -1,0 +1,63 @@
+h2 {
+    border: solid black;
+    width: 1000px;  
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: l5px;
+}
+
+
+h3 {
+    font-size: x-large;
+}
+
+.firstDiv{
+    background-color: gray;
+    padding: 5px;
+    width: 300px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.firstDiv > h1 {
+    text-align: center;
+}
+.firstDiv > p {
+    text-align: center;
+}
+.secondDiv{
+    background-color: blue;
+    padding: 5px;
+    width: 300px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.secondDiv > h1 {
+    text-align: center;
+}
+.secondDiv > p {
+    text-align: center;
+}
+.thirdDiv{
+    background-color: orange;
+    padding: 5px;
+    width: 300px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.thirdDiv > h1 {
+    text-align: center;
+}
+.thirdDiv > p {
+    text-align: center;
+}
+
+img {
+    padding-top: 20px;
+    margin-left: 165px;
+}
